@@ -70,5 +70,5 @@ Hotel-Booking-Demand-Analysis/
 ## 📌 Author
 
 - **Tuhin Mondal**
-- **GitHub:** [your-github](https://github.com/your-username)
-- **LinkedIn:** [your-linkedin](https://linkedin.com/in/your-profile)
+- **GitHub:** [your-github]([https://github.com/your-username](https://github.com/tuhin-123/Hotel-Booking-Demand-Analysis))
+- **LinkedIn:** [your-linkedin]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tuhin-mondal-92a3612a2/))
